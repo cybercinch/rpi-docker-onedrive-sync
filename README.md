@@ -1,3 +1,8 @@
+# Raspberry Pi One Drive Sync
+This fork is a simple edit to oznu's work to allow it to run on RPI/ARM.
+
+---
+
 # Docker OneDrive Sync
 
 This Docker image powered by [skilion/onedrive](https://github.com/skilion/onedrive) allows you to sync a local volume with OneDrive.
